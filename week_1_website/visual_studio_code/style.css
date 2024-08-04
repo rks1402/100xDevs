@@ -1,0 +1,19 @@
+body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    background-color: #0e0e0e;
+}
+
+.topLink {
+    color: #9BA3B4;
+    cursor: pointer;
+    font-size: 16px;
+    padding: 0px 11px;
+}
+
+a {
+    color: #4DAAFC;
+}
+
+p {
+    color: #9BA3B4;
+}

@@ -1,0 +1,22 @@
+body {
+    font-family: "Inter", serif;
+    margin: 0;
+}
+
+
+
+a {
+    font-size: .9rem;
+    font-weight: 360;
+    color: #666666;
+    text-decoration: none;
+    padding: 20px;
+}
+
+h1 {
+    margin: 20px 0px;
+}
+
+h5 {
+    margin-top: 10px;
+}
