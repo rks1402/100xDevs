@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>To Do Application</title>
+    <script src="script.js"></script>
+</head>
+<body>
+    <h2>To Do Application</h2>
+
+    <div id="todos">
+        <div id="add-todo">
+            <input type="text" id="input-todo" name="input-todo">
+            <button onclick="addTodo()">Add Todo</button>
+        </div>
+
+        <div id="todo-1">
+            <h4>Wake up early.</h4>
+            <button onclick="deleteTodo(1)">Delete</button>
+        </div>
+        <div id="todo-2">
+            <h4>Do DSA</h4>
+            <button onclick="deleteTodo(2)">Delete</button>
+        </div>
+
+    </div>
+</body>
+</html>
